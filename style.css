@@ -1,6 +1,7 @@
 body{
     background-color: black;
     color: rgb(184, 15, 15);
+    font-family: rubik;
 }
 
 h2{
@@ -27,5 +28,12 @@ h2{
     .botao{
         text-align: center;
     }
-
+    .informacao{
+        color: antiquewhite;
+        font-size: 25px;
+        display: flex;
+    }
+    .imagem{
+        width: 30%;
+    }
 
